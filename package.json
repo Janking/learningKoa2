@@ -1,0 +1,29 @@
+{
+  "name": "learningkoa2",
+  "version": "1.0.0",
+  "description": "learning koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janking/learningKoa2.git"
+  },
+  "keywords": [
+    "koa2",
+    "example"
+  ],
+  "author": "Janking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Janking/learningKoa2/issues"
+  },
+  "homepage": "https://github.com/Janking/learningKoa2#readme",
+  "dependencies": {
+    "art-template": "^4.12.1",
+    "koa": "^2.3.0",
+    "koa-art-template": "^1.1.1",
+    "koa-router": "^7.2.1"
+  }
+}
